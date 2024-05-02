@@ -1,5 +1,7 @@
 ## Dataset Description
 
+Both hotels are located in Portugal: H1 at the resort region of Algarve and H2 at the city of Lisbon
+
 hotel:  Type of hotel (Resort Hotel, City Hotel)
 is_canceled:    Reservation cancellation status (0 = not canceled, 1 = canceled)
 lead_time:  Number of days between booking and arrival
